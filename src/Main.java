@@ -19,9 +19,5 @@ public class Main {
         Ashu.Hit_By_Gun2();
         Ashu.Hit_By_Gun2();
 
-
-
-
-
     }
 }
